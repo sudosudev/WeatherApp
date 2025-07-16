@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const weatherApi = {
-    key: '4eb3703790b356562054106543b748b2',
+    key: 'your_api_key_here',
     baseUrl: 'https://api.openweathermap.org/data/2.5/weather'
 }
 
